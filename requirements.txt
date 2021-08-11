@@ -4,5 +4,4 @@ numpy
 tensorflow-cpu
 scikit-learn
 requests
-Pillow 
 werkzeug
