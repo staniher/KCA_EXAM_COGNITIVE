@@ -4,7 +4,7 @@ numpy
 tensorflow-cpu
 scikit-learn
 requests
-PIL
+Pillow 
 glob
 os
 werkzeug
