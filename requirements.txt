@@ -1,0 +1,10 @@
+flask
+gunicorn
+numpy
+tensorflow-cpu
+scikit-learn
+requests
+PIL
+glob
+os
+werkzeug
