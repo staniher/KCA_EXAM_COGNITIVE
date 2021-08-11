@@ -5,6 +5,5 @@ tensorflow-cpu
 scikit-learn
 requests
 Pillow 
-glob
 os
 werkzeug
